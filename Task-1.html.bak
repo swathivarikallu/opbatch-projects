@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Task-1</title>
+ </head>
+ <body>
+  <h1><b><center>HTML</center></b></h1>
+  <hr>
+  <h1><b>HTML Introduction....</b></h1>
+  <p>HTML stands for<b><i> Hyper text markup language </i></b>use to structure the content of a webpage. Markup language means that consists of set of tags.<u>Hypertext</u> means having links to other text elements.<br>Html was created by <del>Tim Berners Lee</del> in <mark>1991</mark> Trained by <strong>Mr.Ratan sir.</strong>HTML code is excuted by web browsers such as <small>Google Chrome, Mozilla firefox,Safari,etc.HTMl maintained by <abbr title="World wide webconsortinum">w3c</abbr></p> 
+  <h2>Purpose of HTML?...</h2>
+  <pre>HTML used to develop the front-end.<br>Java used to develop the Back-end.<br>Using HTML we can create simple personal webpage.<br>Using HTML we can create complex e-commerce site.</pre>
+  <h3> About the SatyaTech... &reg;</h3>
+  <p>Satya Tech will provides java fullstack development, .net fullsatck development. we have copyright &copy; 2020-2030. we provide the 100% placement &trade; job....</p>
+  <h4>About the Satya fee....</h4>
+  <span style="color:green;">&#8377; 20000 </span>
+  <span style="color:gray"><del> &#8377;30000</del></span>
+  <span style="color:blue">33% off</span>
+  <h5> About the HTML elements...</h5>
+  <p> The Html element consists of,</p>
+  <ol type='A'>
+	 <li>opening tag &nbsp &nbsp &nbsp; &lt; h1 &gt; ,&lt; image &gt;</li>
+	 <li>closing tag &nbsp &nbsp &nbsp; &lt; /h1 &gt; </li>
+	 <li>content &emsp;&emsp;&emsp; good morning ratan sir</li>
+	 <li>Attributes &emsp; &emsp;src</li>
+	 <li>Values &emsp; &emsp;&emsp;"d:/my.jpeg"</li>
+  </ol>
+  <h2>About the DOB & Formulas...</h2>
+  <p>My Birthday is on the 24<sup>th</sup> of April 2002.<br><b><h3>Caffeine's chemical formula is...</h3></b>C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub><br>if x<sup>2</sup> is 9, x must equal 3.</p>
+  <h3>Sathya Tech job oriented program advantages....</h3>
+  <ul>
+	 <li>Daily 8hrs training schedule....</li>
+	 <li>Time:9:00AM-5:00PM</li>
+	 <li>Every topic test papers...</li>
+	 <li>lab facility with mentors...</li>
+	 <li>100% job oriented program with JOB...</li>
+	 <li>Every topic will get interview questions...</li>
+	 <li>Every week we have interviwes...</li>
+  </ul>
+ <h3>SathyaTech Courses Provided...</h3>
+  <ol>
+	 <li>JAVA Fullstack</li>
+		<ol type='A'>
+			<li>core java</li>
+			<li>adv java</li>
+			<li>spring framework</li>
+			<li>spring boot</li>
+			<li>Micro services</li>
+	    </ol>
+	 <li>.NET Fullstack</li>
+		<ol type='a'>
+			<li>c#.Net</li>
+			<li>ASP.Net</li>
+			<li>ADO.Net</li>
+			<li>>.Net core</li>
+			<li>SQL</li>
+		</ol>
+	 <li>Python Fullstack</li>
+		<ol type='I'>
+			<li>Core Python</li>
+			<li>Adv Python</li>
+			<li>Django</li>
+			<li>>Python Rest</li>
+			<li>SQL</li>
+		</ol>
+	 <li>UI Fullstack</li>
+		 <ol type='i'>
+			<li>HTML</li>
+			<li>CSS</li>
+	        <li>UI framework</li>
+		       <ol>
+			      <li>Angular</li>
+			      <li>ReactJS</li>
+		       </ol>
+	        <li>javascript</li>
+         </ol>
+ </ol>
+  <h3>SathyaTech Student Details...</h3>
+  <table border="1">
+  <thead style="color:green">
+  <tr>
+
+     <th>Roll No</th>
+     <th>First Name</th>
+     <th>Last Name</th>
+     <th>Mobile</th>
+     <th>Email Id</th>
+     <th>Address</th>
+     <th>Image</th>
+	  
+  </tr>
+  </thead>
+   <tbody style="color:blue">
+  <tr>
+     <td>1001</td>
+     <td>Ratan</td>
+	 <td>Addanki</td>
+	 <td>9848385345</td>
+	 <td>Ratan@gmail.com</td>
+	 <td>Narasaraopet</td>
+	 <td ><image src="D:\HTML\image-1" alt="image not found" width="100px" height="100px"></td>
+  </tr>
+  <tr>
+	 <td>1002</td>
+	 <td>Swathi</td>
+	 <td>Varikallu</td>
+	 <td>9848385342</td>
+	 <td>swathi@gmail.com</td>
+	 <td>Martur</td>
+	 <td><image src="D:\HTML\image-2" ,alt="image not found" width="100px" heigth="100px"></td>
+  </tr>
+  <tr>
+	 <td>1003</td>
+	 <td>Manikanta</td>
+	 <td>Varikallu</td>
+	 <td>9848385345</td>
+	 <td>mani@gmail.com</td>
+     <td>Gunrtur</td>
+     <td><image src="D:\HTML\image-1" alt="image not found" width="100px" heigth="100px"></td>
+  </tr>
+  <tr>
+	 <td>1004</td>
+     <td>Sandhya</td>
+	 <td>Varikallu</td>
+	 <td>9848385342</td>
+     <td>sandhya@gmail.com</td>
+     <td>Hyderabad</td>
+     <td><image src="D:\HTML\image-2" alt="image not found" width="100px" heigth="100px"> </td>
+  </tr>
+  <tr>
+	 <td>1005</td>
+     <td>Venkateswarlu</td>
+	 <td>Varikallu</td>
+	 <td>9848384545</td>
+	 <td>venky@gmail.com</td>
+	 <td>Konanki</td>
+	 <td><image src="D:\HTML\image-1" alt="image not found" width="100px" heigth="100px"></td>
+  </tr>
+ </tbody>
+  </table>
+  
+  <h3>Sathya Trainer Details....</h3>
+  <table border="1">
+  <thead style="color:green">
+  <tr>
+	 <th>Name</th>
+     <th colspan="2">Details </th>
+  </tr>
+  </thead>
+  <tbody style="color:blue">
+  <tr>
+     <td rowspan ="2">Ratan</td>
+	 <td>Company</td>
+	 <td>TCS</td>
+  </tr>
+  <tr>
+	 <td>Qualification</td>
+	 <td>B.tech</td>
+  </tr>
+  <tr>
+	 <td rowspan ="2">Anu</td>
+	 <td>Company</td>
+	 <td>Wipro</td>
+  </tr>
+  <tr>
+	 <td>Qualification</td>
+	 <td>Bsc</td>
+  </tr>
+  </tbody>
+  </table>
+  
+
+  <h3>Product Details table...</h3>
+  <table border="1">
+  <thead style="color:green">
+  <tr>
+     <th>Product</th>
+     <th colspan="2">types of flavours</th>
+  </tr>
+  </thead>
+  <tbody style="color:blue">
+  <tr>
+     <td rowspan="3">Milk</td>
+     <td>Normal milk</td>
+     <td>rose milk</td>
+  </tr>
+  <tr>
+	<td rowspan="2">Tonedmilk</td>
+	<td>badham milk</td>
+  </tr>
+  <tr>
+	<td>strawberrymilk</td>
+  </tr>
+  <tr>
+     <td rowspan="3">Ice Cream</td>
+     <td>Stick Ice </td>
+     <td>veneela</td>
+  </tr>
+  <tr>
+	<td rowspan="2">Cone Ice</td>
+	<td>Chocolate</td>
+  </tr>
+  <tr>
+	<td>Strawberry</td>
+  </tr>
+  <tr>
+     <td rowspan="3">oils</td>
+     <td>Normal oil </td>
+     <td>sunflower oil</td>
+  </tr>
+  <tr>
+	<td rowspan="2">Crude oil</td>
+	<td>Ruchi gold</td>
+  </tr>
+  <tr>
+	<td>Peanut oil</td>
+  </tr>
+ </tbody>
+  </table>
+
+  <h3>Multinational Comapanies Details....</h3>
+  <table border="1">
+  <thead style="color:green">
+  <tr>
+  	 <th>No.</th>
+	 <th>Full Name</th>
+	 <th>Position</th>
+	 <th>Salary</th>
+	 <th>Website</th>
+  </tr>
+  </thead>
+  <tbody style="color:blue">
+  <tr>
+	 <td>1</td>
+	 <td>Bill Gates</td>
+	 <td>Founder of Microsoft</td>
+	 <td>$1000</td>
+	 <td><a href="http://www.microsoft.com" target="#" > click here</td>
+  </tr>
+  <tr>
+  	 <td>2</td>
+	 <td>Steve Jobs</td>
+	 <td>Founder of Apple</td>
+	 <td>$1200</td>
+	 <td><a href="http://www.apple.com" target="#" > click here</td>
+  </tr>
+  <tr>
+  	 <td>3</td>
+	 <td>Larry page</td>
+	 <td>Founder of Google</td>
+	 <td>$1100</td>
+	 <td><a href="http://www.google.com" target="#" > click here</td>
+  </tr>
+  <tr>	
+  	 <td>4</td>
+	 <td>Mark Zuckerberry</td>
+	 <td>Founder of Facebook</td>
+	 <td>$1300</td>
+	 <td><a href="http://www.facebook.com" target="#" > click here</td>
+  </tr>
+  </tbody>
+  <tfoot style="color:orange">
+  <tr>
+  	 <td colspan="3">Total Expensives</td>
+	 <td colspan="2">$4600</td>
+  <tr>
+  </tfoot>
+  </table>
+
+  <h3>Login Page...</h3>
+  <form>
+  	 <lable> username:</lable>
+	 <input type="text" placeholder="enter the username"><br><br>
+     <lable> Password:</lable>
+	 <input type="text" placeholder="enter the password"><br><br>
+	 <input type="submit" value="login">
+   </form>
+
+  <h3>Product Details Forms...</h3>
+
+  <form>
+  <lable>Product ID:</lable>
+  <input type="number" name="pro id" id="pro id" value="1001" disabled><br><br>
+  <lable>Product Name:</lable>
+  <input type="text" name="pro name" id="pro name" required><br><br>
+  <lable>Product Price:</lable>
+  <input type="number" name="pro price" id="pro price"step="100"><br><br>
+  <lable>Product Brand:</lable>
+  <input type="text" name="pro brand" id="pro brand"><br><br>
+  <lable>Product Made In:</lable>
+  <input type="text" name="pro made in" id="pro made in" value="India"><br><br>
+  <lable>Product Quality:</lable>
+  <input type="number" name="pro quality" id="pro quality" min="1" max="5" step="1"><br><br>
+  <input type="submit" value="save">
+  </form>
+
+  <h3>Student Registration form</h3>
+  <form method="get" action="Registrationservlet">
+  <label>Student Name:<b></label>
+  <input type="text" name="name" id="name" placeholder="Enter student name" required><br><br>
+  
+  <label>Password:<b></label>
+  <input type="password" name="password" id="password" placeholder="Enter password"required ><br><br>
+
+  <label>Gender:<b></label><br>
+  <input type="radio" name="gender" id="gender">
+  <label>female</label><br>
+  <input type="radio" name="gender" id="gender">
+  <label>male</label><br>
+  <input type="radio" name="gender" id="gender">
+  <label>others</label><br><br>
+
+  <label>Email:<b></label>
+  <input type="email" name="email" id="email" placeholder="Enter email" required><br><br>
+
+  <label>Phone:<b></label>
+  <input type="tel" nmae="phone" id="phone" placeholder="Enter phoneno"><br><br>
+
+  <label>Date of Birth:<b></label>
+  <input type="date" name="dob" id="dob"><br><br>
+
+  <label>Interest/Hobbies:<b></label><br>
+  <input type="checkbox" name="hobbies" id="listing music">
+  <label>Listening music</label><br>
+  <input type="checkbox" name="hobbies" id="Drawing">
+  <label>Drawing</label><br>
+  <input type="checkbox" name="hobbies" id="Reading books">
+  <label>Reading books</label><br>
+  <input type="checkbox" name="hobbies" id="Watching movies">
+  <label>watching movies</label><br>
+  <input type="checkbox" name="hobbies" id="sleeping">
+  <label>Sleeping</label><br>
+  <input type="checkbox" name="hobbies" id="Eating">
+  <label>Eating</label><br><br>
+
+  <label> Country:<b></label>
+  <select>
+  <option value="select">select</option>
+  <option value="India">India</option>
+  <option value="china">china</option>
+  <option value="USA">USA</option>
+  <option value="UK">UK</option>
+  <option value="Bangkok" >Bangkok</option>
+  </select><br><br>
+
+  <label>courses:<b></label>
+  <select multiple size="2">
+  <option value="core java">Core java</option>
+  <option value="adv java">Adv java</option>
+  <option value="spring">spring</option>
+  <option value="spring boot">spring boot</option>
+  <option value="HTML">HTMl</option>
+  <option value="CSS">CSS</option>
+  </select><br><br>
+
+  <label>Your website URL:<b></label>
+  <input type="url" name="website url" id="website url" placeholder="Enter the URL"> <br><br>
+
+  <label>Your Lucky Time:<b></label>
+  <input type="time" name="time" id="time"><br><br>
+
+  <label>Your Rating:<b></label>
+  <input type="range" name="rating" id="rating"><br><br>
+
+  <label>Your Lucky color:<b></label>
+  <input type="color" name="color" id="color"><br><br>
+
+  <label>Upload your resume:<b></label>
+  <input type="file" name="resume" id="resume" placeholder="Choose File"><br><br>
+  
+  <label>Comments(max 200 chars):</label>
+  <textarea>
+  </textarea><br><br>
+  <input type="submit" value="Register">
+  <input type="submit" value="Reset">
+
+  </form><br><br>
+
+  <div style="color:blue ;border:3px solid green">
+  <h3>O-Batch& P-Batch</h3>
+  <p>Both batches are very regular to the classses.They will sleep without taking proper alarams.. and these students are waiting at cellar for sir.. If sir comes to the class they will comes to class, Otherwise they will go to thw sathyammall...</p>
+  </div><br>
+  <div style="color:green; border:3px solid blue">
+  <pre>Ratan sir teach HTML classes and javascript classes to the o-batch and p-batch students...<br>Ratan sir gives example for each and every tag...<br>Ratan sir gives practice paers for every topic...</pre>
+  </div>
+  
+  <h3>Text direction</h3>
+  text direction from left to right
+  <bdo dir="ltr" style="color:green" > Myself swathi varikallu</bdo><br><br>
+
+  text direction from right to left
+  <bdo direction="rtl" style="color:blue" > Myself swathi varikallu</bdo><br><br>
+  
+  <nav>
+  <a href="home" >Home </a>&nbsp;
+  <a href="Products">Products</a>&nbsp;
+  <a href="ContactUS" >ContactUS</a>&nbsp;
+  <a href="AboutUs" >AboutUs</a>&nbsp;
+  <a href="Signin">Signin</a>&nbsp;
+  </nav>
+
+  <h2>Text Scrolling</h2>
+  <marquee direction="right" scroll amount="10">My self swathi varikallu</marquee><hr>
+  <marquee direction="left" scroll amount="5">My self swathi varikallu</marquee><hr>
+  <marquee direction="up" scroll amount="5">My self swathi varikallu</marquee><hr>
+  <marquee direction="down" scroll amount="5">My self swathi varikallu</marquee>
+   
+  <h2>Youtube videos...</h2>
+  <iframe width="935" height="526" src="https://www.youtube.com/embed/SuaaihAwaaQ?list=PL8JLvOaoO7fP2hTayO_UMd4-J8IqyCAvk" title="Java Introduction &amp; Data types BY Mr .Ratan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <h2>Google Map</h2>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3420349707!2d78.24323270453839!3d17.412281015881703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1715172981792!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+  <h2>Audio song</h2>
+  <audio controls>
+    <source src="C:\Users\swath\Downloads\Kollagottey-Anirudh-Ravichander.mp3" type="audio/mpeg">
+  </audio>
+  
+ </body>
+</html>
