@@ -1,6 +1,5 @@
 <html>
 <body>
-<img src="productimage.jpg">
 <form>
   <lable>Product ID:</lable>
   <input type="number" name="pro id" id="pro id" value="1001" disabled><br><br>
